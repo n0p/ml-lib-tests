@@ -1,0 +1,560 @@
+Using file: ../Ride.csv as dataset 
+Train set: (6225, 2) (6225,)
+Test set: (1557, 2) (1557,)
+Testing MultiLayerPerceptron with tanh activation algo and (2,) hidden layers
+MLP Accuracy:  0.9608220937700707
+MLP f1:  0.9512270605372202
+[[  16   54]
+ [   7 1480]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (5,) hidden layers
+MLP Accuracy:  0.9550417469492614
+MLP f1:  0.9330795517171825
+[[   0   70]
+ [   0 1487]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (10,) hidden layers
+MLP Accuracy:  0.9614643545279383
+MLP f1:  0.9517176183123767
+[[  16   54]
+ [   6 1481]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (2, 2) hidden layers
+MLP Accuracy:  0.9550417469492614
+MLP f1:  0.9330795517171825
+[[   0   70]
+ [   0 1487]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (2, 5) hidden layers
+MLP Accuracy:  0.9588953114964676
+MLP f1:  0.950373370345465
+[[  17   53]
+ [  11 1476]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (5, 2) hidden layers
+MLP Accuracy:  0.9608220937700707
+MLP f1:  0.9518351010367951
+[[  17   53]
+ [   8 1479]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (5, 5) hidden layers
+MLP Accuracy:  0.9608220937700707
+MLP f1:  0.9512270605372202
+[[  16   54]
+ [   7 1480]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (10, 5) hidden layers
+MLP Accuracy:  0.960179833012203
+MLP f1:  0.9501082055894556
+[[  15   55]
+ [   7 1480]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (5, 10) hidden layers
+MLP Accuracy:  0.962106615285806
+MLP f1:  0.9522116583164922
+[[  16   54]
+ [   5 1482]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (10, 10) hidden layers
+MLP Accuracy:  0.9595375722543352
+MLP f1:  0.9496279477679488
+[[  15   55]
+ [   8 1479]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (5, 5, 10) hidden layers
+MLP Accuracy:  0.9550417469492614
+MLP f1:  0.9330795517171825
+[[   0   70]
+ [   0 1487]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (5, 10, 5) hidden layers
+MLP Accuracy:  0.9595375722543352
+MLP f1:  0.9502559240216081
+[[  16   54]
+ [   9 1478]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (10, 10, 5) hidden layers
+MLP Accuracy:  0.960179833012203
+MLP f1:  0.9513446509978877
+[[  17   53]
+ [   9 1478]]
+
+Testing MultiLayerPerceptron with logistic activation algo and (2,) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (5,) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (10,) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (2, 2) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (2, 5) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (5, 2) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (5, 5) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (10, 5) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (5, 10) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (10, 10) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (5, 5, 10) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (5, 10, 5) hidden layers
+MLP Accuracy:  0.9550417469492614
+MLP f1:  0.9330795517171825
+[[   0   70]
+ [   0 1487]]
+
+Testing MultiLayerPerceptron with logistic activation algo and (10, 10, 5) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with relu activation algo and (2,) hidden layers
+MLP Accuracy:  0.9550417469492614
+MLP f1:  0.9330795517171825
+[[   0   70]
+ [   0 1487]]
+
+Testing MultiLayerPerceptron with relu activation algo and (5,) hidden layers
+MLP Accuracy:  0.9588953114964676
+MLP f1:  0.9455735939682601
+[[  10   60]
+ [   4 1483]]
+
+Testing MultiLayerPerceptron with relu activation algo and (10,) hidden layers
+MLP Accuracy:  0.960179833012203
+MLP f1:  0.9464779567419874
+[[  10   60]
+ [   2 1485]]
+
+Testing MultiLayerPerceptron with relu activation algo and (2, 2) hidden layers
+MLP Accuracy:  0.9614643545279383
+MLP f1:  0.9517176183123767
+[[  16   54]
+ [   6 1481]]
+
+Testing MultiLayerPerceptron with relu activation algo and (2, 5) hidden layers
+MLP Accuracy:  0.9627488760436738
+MLP f1:  0.9533270310352971
+[[  17   53]
+ [   5 1482]]
+
+Testing MultiLayerPerceptron with relu activation algo and (5, 2) hidden layers
+[91mModel failed!
+underflow encountered in multiply
+[0m
+Testing MultiLayerPerceptron with relu activation algo and (5, 5) hidden layers
+MLP Accuracy:  0.9582530507385999
+MLP f1:  0.9443107946815338
+[[   9   61]
+ [   4 1483]]
+
+Testing MultiLayerPerceptron with relu activation algo and (10, 5) hidden layers
+MLP Accuracy:  0.9614643545279383
+MLP f1:  0.9510785902886095
+[[  15   55]
+ [   5 1482]]
+
+Testing MultiLayerPerceptron with relu activation algo and (5, 10) hidden layers
+MLP Accuracy:  0.9595375722543352
+MLP f1:  0.9468141413014328
+[[  11   59]
+ [   4 1483]]
+
+Testing MultiLayerPerceptron with relu activation algo and (10, 10) hidden layers
+MLP Accuracy:  0.9608220937700707
+MLP f1:  0.9492315782398284
+[[  13   57]
+ [   4 1483]]
+
+Testing MultiLayerPerceptron with relu activation algo and (5, 5, 10) hidden layers
+MLP Accuracy:  0.9563262684649968
+MLP f1:  0.9373242347915302
+[[   3   67]
+ [   1 1486]]
+
+Testing MultiLayerPerceptron with relu activation algo and (5, 10, 5) hidden layers
+[91mModel failed!
+underflow encountered in multiply
+[0m
+Testing MultiLayerPerceptron with relu activation algo and (10, 10, 5) hidden layers
+MLP Accuracy:  0.9595375722543352
+MLP f1:  0.9443226261166853
+[[   8   62]
+ [   1 1486]]
+
+Testing RandomForest with 2 estimators
+
+RandomForest Accuracy:  0.9332048811817598
+RandomForest f1:  0.9384537168933764
+[[  32   38]
+ [  66 1421]]
+
+Testing RandomForest with 5 estimators
+
+RandomForest Accuracy:  0.9608220937700707
+RandomForest f1:  0.9545202969554192
+[[  22   48]
+ [  13 1474]]
+
+Testing RandomForest with 10 estimators
+
+RandomForest Accuracy:  0.9569685292228645
+RandomForest f1:  0.9529040593052582
+[[  25   45]
+ [  22 1465]]
+
+Testing RandomForest with 15 estimators
+
+RandomForest Accuracy:  0.9569685292228645
+RandomForest f1:  0.9500468835411982
+[[  19   51]
+ [  16 1471]]
+
+Testing Gaussian Naive Bayes classifier
+
+Gaussian Naive Bayes Accuracy:  0.962106615285806
+Gaussian Naive Bayes f1:  0.9539776051324924
+[[  19   51]
+ [   8 1479]]
+
+Testing DecisionTreeClassifier with criterion: gini
+DecisionTrees Accuracy:  0.9492614001284522
+DecisionTrees f1:  0.9444689654494836
+[[  19   51]
+ [  28 1459]]
+
+Testing DecisionTreeClassifier with criterion: entropy
+DecisionTrees Accuracy:  0.9505459216441875
+DecisionTrees f1:  0.9463557047331208
+[[  21   49]
+ [  28 1459]]
+
+Testing SupportVectorMachine with kernel: linear
+SVM Accuracy:  0.960179833012203
+SVM f1:  0.945641009683023
+[[   9   61]
+ [   1 1486]]
+
+Testing SupportVectorMachine with kernel: poly
+SVM Accuracy:  0.9563262684649968
+SVM f1:  0.9373242347915302
+[[   3   67]
+ [   1 1486]]
+
+Testing SupportVectorMachine with kernel: rbf
+SVM Accuracy:  0.9588953114964676
+SVM f1:  0.9455735939682601
+[[  10   60]
+ [   4 1483]]
+
+Testing SupportVectorMachine with kernel: sigmoid
+SVM Accuracy:  0.9261400128452152
+SVM f1:  0.923127034054031
+[[   7   63]
+ [  52 1435]]
+
+Done generating models
+
+
+Using file: ../Ride6val.csv as dataset 
+Train set: (6225, 6) (6225,)
+Test set: (1557, 6) (1557,)
+Testing MultiLayerPerceptron with tanh activation algo and (2,) hidden layers
+MLP Accuracy:  0.9550417469492614
+MLP f1:  0.9330795517171825
+[[   0   70]
+ [   0 1487]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (5,) hidden layers
+MLP Accuracy:  0.9678869621066153
+MLP f1:  0.9616774470156184
+[[  25   45]
+ [   5 1482]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (10,) hidden layers
+MLP Accuracy:  0.9633911368015414
+MLP f1:  0.9570406883734456
+[[  23   47]
+ [  10 1477]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (2, 2) hidden layers
+MLP Accuracy:  0.9614643545279383
+MLP f1:  0.9572369266132575
+[[  27   43]
+ [  17 1470]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (2, 5) hidden layers
+MLP Accuracy:  0.9550417469492614
+MLP f1:  0.9330795517171825
+[[   0   70]
+ [   0 1487]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (5, 2) hidden layers
+MLP Accuracy:  0.9678869621066153
+MLP f1:  0.9616774470156184
+[[  25   45]
+ [   5 1482]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (5, 5) hidden layers
+MLP Accuracy:  0.9666024405908799
+MLP f1:  0.9605920017588541
+[[  25   45]
+ [   7 1480]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (10, 5) hidden layers
+MLP Accuracy:  0.9691714836223507
+MLP f1:  0.9644015179114948
+[[  29   41]
+ [   7 1480]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (5, 10) hidden layers
+MLP Accuracy:  0.9633911368015414
+MLP f1:  0.9565600198664737
+[[  22   48]
+ [   9 1478]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (10, 10) hidden layers
+MLP Accuracy:  0.9653179190751445
+MLP f1:  0.96036443490668
+[[  27   43]
+ [  11 1476]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (5, 5, 10) hidden layers
+MLP Accuracy:  0.9595375722543352
+MLP f1:  0.9514341063991656
+[[  18   52]
+ [  11 1476]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (5, 10, 5) hidden layers
+MLP Accuracy:  0.9627488760436738
+MLP f1:  0.9520629312892128
+[[  15   55]
+ [   3 1484]]
+
+Testing MultiLayerPerceptron with tanh activation algo and (10, 10, 5) hidden layers
+MLP Accuracy:  0.9672447013487476
+MLP f1:  0.9623733853836243
+[[  28   42]
+ [   9 1478]]
+
+Testing MultiLayerPerceptron with logistic activation algo and (2,) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (5,) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (10,) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (2, 2) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (2, 5) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (5, 2) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (5, 5) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (10, 5) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (5, 10) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (10, 10) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (5, 5, 10) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (5, 10, 5) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with logistic activation algo and (10, 10, 5) hidden layers
+[91mModel failed!
+underflow encountered in matmul
+[0m
+Testing MultiLayerPerceptron with relu activation algo and (2,) hidden layers
+MLP Accuracy:  0.9550417469492614
+MLP f1:  0.9330795517171825
+[[   0   70]
+ [   0 1487]]
+
+Testing MultiLayerPerceptron with relu activation algo and (5,) hidden layers
+MLP Accuracy:  0.9582530507385999
+MLP f1:  0.9520445107830506
+[[  21   49]
+ [  16 1471]]
+
+Testing MultiLayerPerceptron with relu activation algo and (10,) hidden layers
+MLP Accuracy:  0.9672447013487476
+MLP f1:  0.96021792986029
+[[  23   47]
+ [   4 1483]]
+
+Testing MultiLayerPerceptron with relu activation algo and (2, 2) hidden layers
+MLP Accuracy:  0.9659601798330122
+MLP f1:  0.9570714896741371
+[[  19   51]
+ [   2 1485]]
+
+Testing MultiLayerPerceptron with relu activation algo and (2, 5) hidden layers
+[91mModel failed!
+underflow encountered in multiply
+[0m
+Testing MultiLayerPerceptron with relu activation algo and (5, 2) hidden layers
+[91mModel failed!
+underflow encountered in multiply
+[0m
+Testing MultiLayerPerceptron with relu activation algo and (5, 5) hidden layers
+MLP Accuracy:  0.9672447013487476
+MLP f1:  0.96021792986029
+[[  23   47]
+ [   4 1483]]
+
+Testing MultiLayerPerceptron with relu activation algo and (10, 5) hidden layers
+[91mModel failed!
+underflow encountered in square
+[0m
+Testing MultiLayerPerceptron with relu activation algo and (5, 10) hidden layers
+MLP Accuracy:  0.9672447013487476
+MLP f1:  0.9592226243835775
+[[  21   49]
+ [   2 1485]]
+
+Testing MultiLayerPerceptron with relu activation algo and (10, 10) hidden layers
+MLP Accuracy:  0.9666024405908799
+MLP f1:  0.9591922879337123
+[[  22   48]
+ [   4 1483]]
+
+Testing MultiLayerPerceptron with relu activation algo and (5, 5, 10) hidden layers
+MLP Accuracy:  0.9659601798330122
+MLP f1:  0.9586578486783405
+[[  22   48]
+ [   5 1482]]
+
+Testing MultiLayerPerceptron with relu activation algo and (5, 10, 5) hidden layers
+MLP Accuracy:  0.9646756583172769
+MLP f1:  0.9598346775376767
+[[  27   43]
+ [  12 1475]]
+
+Testing MultiLayerPerceptron with relu activation algo and (10, 10, 5) hidden layers
+MLP Accuracy:  0.9543994861913937
+MLP f1:  0.9327584856829461
+[[   0   70]
+ [   1 1486]]
+
+Testing RandomForest with 2 estimators
+
+RandomForest Accuracy:  0.9531149646756584
+RandomForest f1:  0.9560059749664215
+[[  44   26]
+ [  47 1440]]
+
+Testing RandomForest with 5 estimators
+
+RandomForest Accuracy:  0.9717405266538215
+RandomForest f1:  0.9697408165072782
+[[  39   31]
+ [  13 1474]]
+
+Testing RandomForest with 10 estimators
+
+RandomForest Accuracy:  0.968529222864483
+RandomForest f1:  0.9664438485708441
+[[  37   33]
+ [  16 1471]]
+
+Testing RandomForest with 15 estimators
+
+RandomForest Accuracy:  0.970456005138086
+RandomForest f1:  0.9675179846235348
+[[  35   35]
+ [  11 1476]]
+
+Testing Gaussian Naive Bayes classifier
+
+Gaussian Naive Bayes Accuracy:  0.9633911368015414
+Gaussian Naive Bayes f1:  0.9587856639879762
+[[  27   43]
+ [  14 1473]]
+
+Testing DecisionTreeClassifier with criterion: gini
+DecisionTrees Accuracy:  0.962106615285806
+DecisionTrees f1:  0.9611539116746369
+[[  37   33]
+ [  26 1461]]
+
+Testing DecisionTreeClassifier with criterion: entropy
+DecisionTrees Accuracy:  0.9653179190751445
+DecisionTrees f1:  0.9631731603324402
+[[  35   35]
+ [  19 1468]]
+
+Testing SupportVectorMachine with kernel: linear
+SVM Accuracy:  0.9672447013487476
+SVM f1:  0.9592226243835775
+[[  21   49]
+ [   2 1485]]
+
+Testing SupportVectorMachine with kernel: poly
+SVM Accuracy:  0.9653179190751445
+SVM f1:  0.9559707312597485
+[[  18   52]
+ [   2 1485]]
+
+Testing SupportVectorMachine with kernel: rbf
+SVM Accuracy:  0.9666024405908799
+SVM f1:  0.9591922879337123
+[[  22   48]
+ [   4 1483]]
+
+Testing SupportVectorMachine with kernel: sigmoid
+SVM Accuracy:  0.9267822736030829
+SVM f1:  0.925216779893835
+[[  10   60]
+ [  54 1433]]
+
+Done generating models

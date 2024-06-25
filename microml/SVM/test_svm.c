@@ -1,0 +1,46 @@
+#include <stdio.h>
+#include <time.h>
+#include "svm.h"
+#include <stdlib.h>
+
+
+int pred;
+
+  double Input1[10][6] = {
+  { 12, 1, 29, 62, 455, 89},  // NBIoT
+  { 30, 1, 31, 80, 230, 18},  // LoRaWAN
+  { 8, 1, 70, 88, 307, 60},  // DROP
+  { 55, 1, 45, 28, 343, 88},  // NB-IoT
+  { 41, 1, 87, 100, 88, 26},  // LoRaWAN
+  { 36, 1, 0, 8, 122, 21},  // DROP
+  { 78, 1, 66, 38, 147, 91},  // NBIoT
+  { 84, 1, 38, 34, 104, 22},  // LoRaWAN
+  { 9, 1, 56, 49, 460, 18},  // DROP
+  { 63, 0, 89, 49, 249, 75 }   // NBIOT
+}; 
+
+
+int main()
+{
+ int i=0;
+ time_t t;
+ srand((unsigned) time(&t));
+ while (i<=9){
+  //float Input2[4]={(double)rand() / (double)RAND_MAX, (double)rand() / (double)RAND_MAX, (double)rand() / (double)RAND_MAX, (double)rand() / (double)RAND_MAX};
+ 
+    clock_t begin = clock();
+
+  
+    pred=predict(Input1[i]);
+    //pred=predict(Input2);
+
+    clock_t end = clock();
+    double microseconds= (double)(end - begin) / CLOCKS_PER_SEC;
+    
+    //printf ("%d \n", pred);
+    printf ("%lf \n", microseconds);
+    i++;    
+ }
+   
+   return 0;
+}

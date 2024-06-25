@@ -1,0 +1,150 @@
+Algorithm: DT-entropy-2val; Total elapsed: 0.000108; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2364 kb, vm     3796 kb
+Algorithm: DT-entropy-6val; Total elapsed: 0.000060; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000001 
+	rss     2368 kb, vm     3792 kb
+Algorithm: DT-gini-2val; Total elapsed: 0.000035; Mean: 0.000000; Variance: 0.000000; StdDev: 0.000001 
+	rss     2196 kb, vm     3796 kb
+Algorithm: DT-gini-6val; Total elapsed: 0.000035; Mean: 0.000000; Variance: 0.000000; StdDev: 0.000001 
+	rss     2296 kb, vm     3792 kb
+Algorithm: GNB-2val; Total elapsed: 0.000062; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2188 kb, vm     3788 kb
+Algorithm: GNB-6val; Total elapsed: 0.000082; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000001 
+	rss     2364 kb, vm     3788 kb
+Algorithm: MLP-10--relu-2val; Total elapsed: 0.000097; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2384 kb, vm     3792 kb
+Algorithm: MLP-10--relu-6val; Total elapsed: 0.000206; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000002 
+	rss     2292 kb, vm     3792 kb
+Algorithm: MLP-10--tanh-2val; Total elapsed: 0.000245; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000002 
+	rss     2432 kb, vm     3792 kb
+Algorithm: MLP-10--tanh-6val; Total elapsed: 0.000224; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000003 
+	rss     2344 kb, vm     3792 kb
+Algorithm: MLP-10-10-5-logistic-2val; Total elapsed: 0.000160; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000001 
+	rss     2316 kb, vm     3792 kb
+Algorithm: MLP-10-10-5-relu-2val; Total elapsed: 0.000358; Mean: 0.000004; Variance: 0.000000; StdDev: 0.000002 
+	rss     2288 kb, vm     3792 kb
+Algorithm: MLP-10-10-5-relu-6val; Total elapsed: 0.000326; Mean: 0.000003; Variance: 0.000000; StdDev: 0.000003 
+	rss     2276 kb, vm     3792 kb
+Algorithm: MLP-10-10-5-tanh-2val; Total elapsed: 0.000592; Mean: 0.000006; Variance: 0.000000; StdDev: 0.000006 
+	rss     2424 kb, vm     3792 kb
+Algorithm: MLP-10-10-5-tanh-6val; Total elapsed: 0.000409; Mean: 0.000004; Variance: 0.000000; StdDev: 0.000002 
+	rss     2492 kb, vm     3792 kb
+Algorithm: MLP-10-10-relu-2val; Total elapsed: 0.000326; Mean: 0.000003; Variance: 0.000000; StdDev: 0.000003 
+	rss     2340 kb, vm     3792 kb
+Algorithm: MLP-10-10-relu-6val; Total elapsed: 0.000308; Mean: 0.000003; Variance: 0.000000; StdDev: 0.000003 
+	rss     2428 kb, vm     3792 kb
+Algorithm: MLP-10-10-tanh-2val; Total elapsed: 0.000294; Mean: 0.000003; Variance: 0.000000; StdDev: 0.000002 
+	rss     2496 kb, vm     3792 kb
+Algorithm: MLP-10-10-tanh-6val; Total elapsed: 0.000382; Mean: 0.000004; Variance: 0.000000; StdDev: 0.000002 
+	rss     2212 kb, vm     3792 kb
+Algorithm: MLP-10-5-relu-2val; Total elapsed: 0.000181; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000002 
+	rss     2112 kb, vm     3792 kb
+Algorithm: MLP-10-5-relu-6val; Total elapsed: 0.000202; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000002 
+	rss     2372 kb, vm     3792 kb
+Algorithm: MLP-10-5-tanh-2val; Total elapsed: 0.000245; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000002 
+	rss     2176 kb, vm     3792 kb
+Algorithm: MLP-10-5-tanh-6val; Total elapsed: 0.000380; Mean: 0.000004; Variance: 0.000000; StdDev: 0.000003 
+	rss     2348 kb, vm     3792 kb
+Algorithm: MLP-2--relu-2val; Total elapsed: 0.000097; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2276 kb, vm     3792 kb
+Algorithm: MLP-2--relu-6val; Total elapsed: 0.000154; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000003 
+	rss     2296 kb, vm     3792 kb
+Algorithm: MLP-2--tanh-2val; Total elapsed: 0.000122; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2420 kb, vm     3792 kb
+Algorithm: MLP-2--tanh-6val; Total elapsed: 0.000126; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2352 kb, vm     3792 kb
+Algorithm: MLP-2-2-relu-2val; Total elapsed: 0.000108; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2296 kb, vm     3792 kb
+Algorithm: MLP-2-2-relu-6val; Total elapsed: 0.000169; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000002 
+	rss     2260 kb, vm     3792 kb
+Algorithm: MLP-2-2-tanh-2val; Total elapsed: 0.000178; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000003 
+	rss     2496 kb, vm     3792 kb
+Algorithm: MLP-2-2-tanh-6val; Total elapsed: 0.000198; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000002 
+	rss     2340 kb, vm     3792 kb
+Algorithm: MLP-2-5-relu-2val; Total elapsed: 0.000130; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2288 kb, vm     3792 kb
+Algorithm: MLP-2-5-relu-6val; Total elapsed: 0.000143; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2360 kb, vm     3792 kb
+Algorithm: MLP-2-5-tanh-2val; Total elapsed: 0.000145; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2176 kb, vm     3792 kb
+Algorithm: MLP-2-5-tanh-6val; Total elapsed: 0.000228; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000003 
+	rss     2340 kb, vm     3792 kb
+Algorithm: MLP-5--relu-2val; Total elapsed: 0.000105; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2372 kb, vm     3792 kb
+Algorithm: MLP-5--relu-6val; Total elapsed: 0.000116; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2108 kb, vm     3792 kb
+Algorithm: MLP-5--tanh-2val; Total elapsed: 0.000236; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000003 
+	rss     2496 kb, vm     3792 kb
+Algorithm: MLP-5--tanh-6val; Total elapsed: 0.000143; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2352 kb, vm     3792 kb
+Algorithm: MLP-5-10-5-logistic-2val; Total elapsed: 0.000305; Mean: 0.000003; Variance: 0.000000; StdDev: 0.000002 
+	rss     2276 kb, vm     3792 kb
+Algorithm: MLP-5-10-5-relu-2val; Total elapsed: 0.000310; Mean: 0.000003; Variance: 0.000000; StdDev: 0.000002 
+	rss     2108 kb, vm     3792 kb
+Algorithm: MLP-5-10-5-relu-6val; Total elapsed: 0.000247; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000002 
+	rss     2372 kb, vm     3792 kb
+Algorithm: MLP-5-10-5-tanh-2val; Total elapsed: 0.000285; Mean: 0.000003; Variance: 0.000000; StdDev: 0.000002 
+	rss     2428 kb, vm     3792 kb
+Algorithm: MLP-5-10-5-tanh-6val; Total elapsed: 0.000465; Mean: 0.000005; Variance: 0.000000; StdDev: 0.000003 
+	rss     2348 kb, vm     3792 kb
+Algorithm: MLP-5-10-relu-2val; Total elapsed: 0.000217; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000002 
+	rss     2220 kb, vm     3792 kb
+Algorithm: MLP-5-10-relu-6val; Total elapsed: 0.000209; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000002 
+	rss     2296 kb, vm     3792 kb
+Algorithm: MLP-5-10-tanh-2val; Total elapsed: 0.000290; Mean: 0.000003; Variance: 0.000000; StdDev: 0.000003 
+	rss     2360 kb, vm     3792 kb
+Algorithm: MLP-5-10-tanh-6val; Total elapsed: 0.000279; Mean: 0.000003; Variance: 0.000000; StdDev: 0.000002 
+	rss     2212 kb, vm     3792 kb
+Algorithm: MLP-5-2-relu-2val; Total elapsed: 0.000138; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2284 kb, vm     3792 kb
+Algorithm: MLP-5-2-relu-6val; Total elapsed: 0.000194; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000003 
+	rss     2280 kb, vm     3792 kb
+Algorithm: MLP-5-2-tanh-2val; Total elapsed: 0.000221; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000003 
+	rss     2316 kb, vm     3792 kb
+Algorithm: MLP-5-2-tanh-6val; Total elapsed: 0.000165; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000002 
+	rss     2352 kb, vm     3792 kb
+Algorithm: MLP-5-5-10-relu-2val; Total elapsed: 0.000203; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000002 
+	rss     2148 kb, vm     3792 kb
+Algorithm: MLP-5-5-10-relu-6val; Total elapsed: 0.000270; Mean: 0.000003; Variance: 0.000000; StdDev: 0.000002 
+	rss     2372 kb, vm     3792 kb
+Algorithm: MLP-5-5-10-tanh-2val; Total elapsed: 0.000286; Mean: 0.000003; Variance: 0.000000; StdDev: 0.000002 
+	rss     2340 kb, vm     3792 kb
+Algorithm: MLP-5-5-10-tanh-6val; Total elapsed: 0.000350; Mean: 0.000004; Variance: 0.000000; StdDev: 0.000003 
+	rss     2344 kb, vm     3792 kb
+Algorithm: MLP-5-5-relu-2val; Total elapsed: 0.000168; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000002 
+	rss     2424 kb, vm     3792 kb
+Algorithm: MLP-5-5-tanh-2val; Total elapsed: 0.000203; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000002 
+	rss     2212 kb, vm     3792 kb
+Algorithm: MLP-5-5-tanh-6val; Total elapsed: 0.000272; Mean: 0.000003; Variance: 0.000000; StdDev: 0.000002 
+	rss     2372 kb, vm     3792 kb
+Algorithm: RF-10-2val; Total elapsed: 0.000148; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000003 
+	rss     2296 kb, vm     3904 kb
+Algorithm: RF-10-6val; Total elapsed: 0.000146; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2428 kb, vm     3860 kb
+Algorithm: RF-15-2val; Total elapsed: 0.000195; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000003 
+	rss     2372 kb, vm     3952 kb
+Algorithm: RF-15-6val; Total elapsed: 0.000170; Mean: 0.000002; Variance: 0.000000; StdDev: 0.000003 
+	rss     2296 kb, vm     3900 kb
+Algorithm: RF-2-2val; Total elapsed: 0.000078; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2380 kb, vm     3808 kb
+Algorithm: RF-2-6val; Total elapsed: 0.000103; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2124 kb, vm     3800 kb
+Algorithm: RF-5-2val; Total elapsed: 0.000116; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2264 kb, vm     3844 kb
+Algorithm: RF-5-6val; Total elapsed: 0.000142; Mean: 0.000001; Variance: 0.000000; StdDev: 0.000002 
+	rss     2144 kb, vm     3824 kb
+Algorithm: SVM-linear-2val; Total elapsed: 0.002522; Mean: 0.000025; Variance: 0.000000; StdDev: 0.000003 
+	rss     2256 kb, vm     3836 kb
+Algorithm: SVM-linear-6val; Total elapsed: 0.003981; Mean: 0.000040; Variance: 0.000000; StdDev: 0.000005 
+	rss     2292 kb, vm     3860 kb
+Algorithm: SVM-poly-2val; Total elapsed: 0.004535; Mean: 0.000045; Variance: 0.000000; StdDev: 0.000017 
+	rss     2268 kb, vm     3836 kb
+Algorithm: SVM-poly-6val; Total elapsed: 0.005047; Mean: 0.000050; Variance: 0.000000; StdDev: 0.000006 
+	rss     2284 kb, vm     3856 kb
+Algorithm: SVM-rbf-2val; Total elapsed: 0.004676; Mean: 0.000047; Variance: 0.000000; StdDev: 0.000007 
+	rss     2316 kb, vm     3836 kb
+Algorithm: SVM-rbf-6val; Total elapsed: 0.015055; Mean: 0.000151; Variance: 0.000000; StdDev: 0.000029 
+	rss     2288 kb, vm     3864 kb
+Algorithm: SVM-sigmoid-2val; Total elapsed: 0.003583; Mean: 0.000036; Variance: 0.000000; StdDev: 0.000010 
+	rss     2344 kb, vm     3836 kb
+Algorithm: SVM-sigmoid-6val; Total elapsed: 0.004814; Mean: 0.000048; Variance: 0.000000; StdDev: 0.000009 
+	rss     2416 kb, vm     3868 kb
